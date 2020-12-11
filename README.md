@@ -4,6 +4,7 @@
 
 - 🏠 [My website](https://thundiverter.github.io)
 - 🗃 [FANDOM Portable Infobox (Russian)](https://github.com/Thundiverter/fandom-portable-infobox)
+- 🖩 [Calculator](https://github.com/Thundiverter/calculator)
 
 <!--
 **Thundiverter/Thundiverter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
