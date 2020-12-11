@@ -1,7 +1,6 @@
 ### Hi there 👋
 * ⌨ I work with HTML, CSS/SCSS, JavaScript
 * 👪 I'm very active on [FANDOM](https://community.fandom.com/wiki/User:StickManReally)
-* 😄 Pronouns: he/him
 
 - 🏠 [My website](https://thundiverter.github.io)
 - 🗃 [FANDOM Portable Infobox (Russian)](https://github.com/Thundiverter/fandom-portable-infobox)
