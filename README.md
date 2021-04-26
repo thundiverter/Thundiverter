@@ -3,6 +3,7 @@
 <!--* 👪 I'm very active on [FANDOM](https://community.fandom.com/wiki/User:StickManReally)-->
 
 - 🏠 [My website](https://thundiverter.github.io)
+- 🔣 [Symbols](https://thundiverter.github.io/symbols/)
 - 🗃 [FANDOM Portable Infobox (Russian)](https://github.com/Thundiverter/fandom-portable-infobox)
 
 <!--
