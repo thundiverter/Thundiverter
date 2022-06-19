@@ -4,8 +4,8 @@
 
 - 🏠 [My website](https://thundiverter.github.io)
 - 🔣 [Symbols](https://thundiverter.github.io/symbols/)
-- 🗃 [FANDOM Portable Infobox (Russian)](https://github.com/Thundiverter/fandom-portable-infobox)
-- [infege2022 — ЕГЭ по информатике 2022](https://github.com/Thundiverter/infege2022)
+<!--- 🗃 [FANDOM Portable Infobox (Russian)](https://github.com/Thundiverter/fandom-portable-infobox)
+- [infege2022 — ЕГЭ по информатике 2022](https://github.com/Thundiverter/infege2022)-->
 
 <!--
 **Thundiverter/Thundiverter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
