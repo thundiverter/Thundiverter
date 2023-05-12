@@ -1,5 +1,5 @@
 ### Hi there 👋
-* ⌨ I work with HTML, CSS/SCSS, JavaScript
+* ⌨ I work with HTML, CSS/SCSS, JavaScript, Vue, Firebase
 <!--* 👪 I'm very active on [FANDOM](https://community.fandom.com/wiki/User:StickManReally)-->
 
 - 🏠 [My website](https://thundiverter.github.io)
