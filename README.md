@@ -5,9 +5,7 @@
 ### About Me
 My name is Ivan. I am currently a university student (studying Applied Mathematics and Computer Science). Also, I study web development on my own and work on personal projects.
 
-I created my first (very simple) website in 2019. Since then, I've been obsessed with web development, especially with frontend. I love designing websites, thinking through various little details, and then implementing these ideas into a final product.
-
-Speaking of my other interests, I'm quite an active editor on various FANDOM's wikis. Actually, FANDOM (formerly known as Wikia) became a huge motivation for me to try myself in web development.
+I created my first (very simple) website in 2019. Since then, I'm obsessed with web development, especially with frontend. I love designing websites, thinking through various little details, and then implementing these ideas into a final product.
 
 ### Technologies I Use
 <table>
