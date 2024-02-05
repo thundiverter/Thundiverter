@@ -5,7 +5,7 @@
 ### About Me
 My name is Ivan. I am currently a university student (studying Applied Mathematics and Computer Science). Also, I study web development on my own and work on personal projects.
 
-I created my first (very simple) website in 2019. Since then, I'm obsessed with web development, especially with frontend. I love designing websites, thinking through various little details, and then implementing these ideas into a final product.
+I created my first website in 2019. Since then, I'm obsessed with web development, especially with frontend. I love designing websites, thinking through various little details, and then implementing these ideas into a final product.
 
 ### Technologies I Use
 <table>
@@ -16,6 +16,5 @@ I created my first (very simple) website in 2019. Since then, I'm obsessed with 
 		<td align=center><img width="36" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/><div>Vue</div></td>
 		<td align=center><img width="36" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/><div>Firebase</div></td>
     <td align=center><img width="36" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/><div>VS Code</div></td>
-		<td align=center><img width="36" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/><div>Figma</div></td>
 	</tr>
 </table>
