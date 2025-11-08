@@ -3,7 +3,7 @@
 <p align=center>🌎 <b><a href="https://thundiverter.github.io">My personal website</a></b></p>
 
 ### About Me
-My name is Ivan. I am currently a university student (studying Applied Mathematics and Computer Science). I also study web development on my own and work on personal projects.
+My name is Ivan. I am currently a university student (studying Applied Mathematics and Computer Science). I also study web development on my own and work on some personal projects.
 
 <!--I created my first website in 2019. Since then, I'm obsessed with web development, especially with frontend. I love designing websites, thinking through various little details, and then implementing these ideas into a final product.-->
 
@@ -11,7 +11,7 @@ My name is Ivan. I am currently a university student (studying Applied Mathemati
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,firebase,vite,vscode,nodejs,git,latex" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,firebase,supabase,vite,vscode,nodejs,git,latex" />
   </a>
 </p>
 
