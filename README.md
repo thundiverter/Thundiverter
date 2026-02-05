@@ -1,21 +1,17 @@
-<h2 align=center>Ivan Zubkov</h2>
-<p align=center>Frontend Web Developer · University Student</p>
-<p align=center>🌎 <b><a href="https://thundiverter.github.io">My personal website</a></b></p>
+## Ivan Zubkov
 
-### About Me
-My name is Ivan. I am currently a university student (studying Applied Mathematics and Computer Science). I also study web development on my own and work on some personal projects.
+*Frontend Web Developer*
 
-<!--I created my first website in 2019. Since then, I'm obsessed with web development, especially with frontend. I love designing websites, thinking through various little details, and then implementing these ideas into a final product.-->
+🌎 <b><a href="https://thundiverter.github.io">My website</a></b>
 
-### Technologies I Use
+### About me
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,firebase,supabase,vite,vscode,nodejs,git,latex" />
-  </a>
-</p>
+My name is Ivan. I am currently a university student (*Applied Mathematics and Computer Science*). I also study web development on my own.
+
+I primarily work with *React*, *Node.js*, and *Supabase*. My IDE is *Visual Studio Code*.
 
 ### Projects
 
-* 🛠️ **[FANDOM Tools](https://fandomtools.netlify.app/)** <sup>[[repo]](https://github.com/thundiverter/fandom-tools)</sup>
+* 🛠️ **[mwtools](https://mwtools.netlify.app/)** <sup>[[repo]](https://github.com/thundiverter/mwtools)</sup>
+* 📝 **[Резюме+ (Resume+)](https://resumeplus.vercel.app/)**
 * 🔣 **[smbls](https://smbls.netlify.app/)** <sup>[[repo]](https://github.com/thundiverter/smbls)</sup>
